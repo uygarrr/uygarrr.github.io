@@ -21,8 +21,8 @@ In 2020 we started as an idea in Sabanci University. An idea that came true. we 
 We constantly collect data about your company all over the internet. Also any data that is given by you can be used. Afterwards by analyzing the data collected our AI gives you individual stats for each of your product, service basically anything you want to know more about. We draw insights from them and track progress of your product/service day-by-day, hour-by-hour, week-by-week however you like. Just in seconds. We also shape or develop new products or tools depending on our prospect needs.
 
 
-### Contact and Demo
+### Contact and Ask for a Demo!
 
 For your inquiries or to ask for a demo please contact us!
 
-uygark@sabanciuniv.edu
+ventus.contactus@gmail.com
