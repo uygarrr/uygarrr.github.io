@@ -24,5 +24,3 @@ We constantly collect data about your company all over the internet. Also any da
 ### Contact and Demo
 
 For your inquiries or to ask for a demo please contact us!
-
-uygark@sabanciuniv.edu
