@@ -2,8 +2,6 @@
 
 In the age of digitalization every business have thousands of comments and reviews from various platforms. Companies need to have insights from these comments and decide what aspect, product or service to improve.**A business isn't just average of the reviews**. These customer feedback from all over the internet is growing rapidly each day and getting harder and harder to process.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Power of AI(such a fancy term).
 
 AI is getting integrated in our lives more and more. It will take part in everything from our personal lives to our businesses. How do we know? Let's consider this case:
@@ -27,4 +25,4 @@ We constantly collect data about your company all over the internet. Also any da
 
 For your inquiries or to ask for a demo please contact us!
 
-[contact mail](uygark@sabanciuniv.edu)
+[Contact Mail](uygark@sabanciuniv.edu)
